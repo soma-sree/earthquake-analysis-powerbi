@@ -84,11 +84,11 @@ USGS API → Power Query (JSON Transformation) → Data Modeling (Star Schema) �
 
 **Live Monitoring**
 
-![Dashboard1](images/Dashboard1.png)
+![Dashboard 1](images/dashboard1.png)
 
 **Detailed Analysis**
 
-![Dashboard2](images/Dashboard2.png)
+![Dashboard 2](images/dashboard2.png)
 
 ---
 
